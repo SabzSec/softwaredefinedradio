@@ -68,7 +68,7 @@ collections:
 # The values here represent the defaults if nothing is set
 pagination:
   # Site-wide kill switch, disabled here it doesn't run at all
-  enabled: true
+ # enabled: true
 
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination page
   debug: true
