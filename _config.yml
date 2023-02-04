@@ -29,20 +29,20 @@ cta:
 
 ################## Social site ###############
 social:
-  - name: facebook
-    icon: "ti-facebook"
+  - name: github
+    icon: "ti-github"
     link: "#"
 
   - name: twitter
     icon: "ti-twitter-alt"
     link: "#"
 
-  - name: linkedin
-    icon: "ti-linkedin"
+  - name: youtube
+    icon: "ti-youtube"
     link: "#"
 
-  - name: pinterest
-    icon: "ti-pinterest"
+  - name: linkedin
+    icon: "ti-linkedin"
     link: "#"
 
 # Build settings
