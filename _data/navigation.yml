@@ -22,19 +22,11 @@ main:
     url: /events.html
   - name: Announcements
     url: /announcements.html      
-  - name: Blog
-    url: /blog-1.html
-  - name: Pages
-    url: /
-    submenu:
-      # - name: Services
-      #   url: /services.html
-      # - name: Portfolio One
-      #   url: /portfolio-1.html
-      # - name: Portfolio Two
-      #   url: /portfolio-2.html
-      - name: 404
-        url: /404
+  # - name: Pages
+  #   url: /
+  #   submenu:
+  #     - name: 404
+  #       url: /404
   - name: Contact
     url: /contact.html
 
