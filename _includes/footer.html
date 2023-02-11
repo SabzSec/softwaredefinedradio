@@ -6,7 +6,8 @@
 			<div class="col-lg-3 col-md-6">
 				<div class="footer-widget  mb-5 mb-lg-0">
 					<h4 class="font-weight-bold text-white mb-3">About Us</h4>
-					{{site.footer_content | markdownify}}
+					<!-- {{site.footer_content | markdownify}} -->
+					<p class="markdownify">If you would like to stay up-to-date with the plans for SI-SDR-UG's activities, please connect with us!</p>
 
 					<ul class="list-inline socials-links">
 						{% for social in site.social %}
@@ -23,9 +24,12 @@
 					<h4 class="text-white mb-3">Navigation</h4>
 
 					<ul class="list-unstyled lh-38">
-						{% for menu in site.data.navigation.footer %}
-						<li><a href="{{menu.link | relative_url }}">{{menu.name}}</a></li>
-						{% endfor %}
+						<li><a href="/softwaredefinedradio/home.html">Home</a></li>
+						<li><a href="/softwaredefinedradio/about.html">About</a></li>
+						<li><a href="/softwaredefinedradio/events.html">Events</a></li>
+						<li><a href="/softwaredefinedradio/announcements.html">Announcements</a></li>
+						<li><a href="/softwaredefinedradio/contact.html">Contact Us</a></li>
+						
 					</ul>
 				</div>
 			</div>		
