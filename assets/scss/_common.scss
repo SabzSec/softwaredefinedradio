@@ -70,3 +70,23 @@ a:focus {
 		display: inline-block;
 	}
 }
+
+blockquote {
+	background: #f2f4f7;
+    border-left: 5px solid #f57479;
+    margin: 70px 0px 70px 0px; 
+	padding-left: 3rem!important; 
+	padding-right: 3rem!important;
+    padding-bottom: 1.5rem!important; 
+	padding-top: 1.5rem!important; 
+	position: relative!important;
+    display: block; box-sizing: border-box;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+.time-text {
+	color: #4CBB17;
+}
+
