@@ -31,15 +31,15 @@ cta:
 social:
   - name: github
     icon: "ti-github"
-    link: "#"
+    link: "https://github.com/southindiansdrusergroup"
 
   - name: twitter
     icon: "ti-twitter-alt"
-    link: "#"
+    link: "https://twitter.com/akashvani2021"
 
   - name: youtube
     icon: "ti-youtube"
-    link: "#"
+    link: "https://www.youtube.com/channel/UCy04XwXPMDVUucWYYvwg-Yg"
 
   - name: linkedin
     icon: "ti-linkedin"
