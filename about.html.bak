@@ -54,7 +54,11 @@ description: ""
 					<div class="row">
 					   <div class="col-lg-4">
 							<div class="img-block position-relative mb-4">
+<<<<<<< HEAD
 								<img src="{{'/assets/images/team/aathiimg.jpeg' | relative_url}}" alt="" class="img-fluid">
+=======
+								<img src="{{'/assets/images/team/test-1.jpg' | relative_url}}" alt="" class="img-fluid">
+>>>>>>> dcafa3ac4aeb13b3218365648179fc2e83ef66c8
 								<i class="fa fa-quote-left"></i>			
 							</div>
 							<h5 class="mb-0 mt-2">Aditya Arun Kumar</h5>
